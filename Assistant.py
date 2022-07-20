@@ -28,7 +28,7 @@ print('''=====Welcome to Desktop Assistant=====\n
         2. Ask about time and date
 
         3. Anything search on internet                       
-           Command: say 'search' and then ask anything such as play 'song' on youtube
+           Command: say 'search' and then ask anything such as play 'song' on youtube.
 
         4. Calculation in Mathematics                        
            Command: say calculate 'your question' such as calculate sin30
@@ -37,10 +37,10 @@ print('''=====Welcome to Desktop Assistant=====\n
            Command: say send a message
 
         6. Search anything on wikipedia
-           Command: say 'wikipedia'
+           Command: say 'wikipedia' then tell what you want to search on wikipedia
 
         7. Find the location on map
-           Command: say 'find location'
+           Command: say 'find location' then tell the location name which you want to locate
 
         6. To exit the programm say 'bye' ''')
 
